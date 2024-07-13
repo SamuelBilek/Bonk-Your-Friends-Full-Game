@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel.unity
+    guid: 423705d09130f0a49b71cf243a5b1582
+  - enabled: 0
+    path: Assets/Scenes/Level1.unity
+    guid: 7c05163f83ecb9bf2b4776b2a0f18ef3
+  - enabled: 0
+    path: Assets/Scenes/Level2.unity
+    guid: bb5d4b54fa15982438dc4851b16634e2
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: eed6470e057a0654ab93748a2ffcf20c
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 6ab00ac11dd24224c825c2686c172f13
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 02d2d36393c7b3b4c8ffdf222ea4d61f
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 3139624af3d27204f8f14b2c10334a8c
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 53c3e2ac2e998d44f93f0efe6d32243e
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 5622110e2b457c445ae893be3cdd8ef2
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 76b7fd4d52e3fb44090a81a36515b17b
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: dcfc5ac4591dae7458c74d8c5425f22b
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: 8fc093faec33afb46818cd0b75b86c0e
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: e75827cdfd6974248938950a42acdd53
+  - enabled: 1
+    path: Assets/Scenes/Level13.unity
+    guid: 18f0cba15ad44af47b2a56be0d37125b
+  - enabled: 1
+    path: Assets/Scenes/Level14.unity
+    guid: fdcc79390fdbee94b9aa92e88f82eb7c
+  - enabled: 1
+    path: Assets/Scenes/Level15.unity
+    guid: 9fa2f1a4e63f799459b0526604e10f84
+  - enabled: 1
+    path: Assets/Scenes/Level16.unity
+    guid: 9d6daf40eb0a0be4aa2acb4c6988ad36
+  - enabled: 1
+    path: Assets/Scenes/Level17.unity
+    guid: 5fa2c1a2daad5f94aa677b259e570b84
+  - enabled: 1
+    path: Assets/Scenes/Level18.unity
+    guid: 9af1e38252e953940b7c14114e54a973
+  m_configObjects: {}
